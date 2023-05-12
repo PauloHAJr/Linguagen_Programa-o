@@ -7,8 +7,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 public class ManipulaArquivos {
-//Essa já é a classe Main
-   
+
     public static void main(String[] args) throws IOException {
         String nomesFilePath = "C:/Users/12116312/Documents/ArquivoNomes.txt";
         String sobrenomesFilePath = "C:/Users/12116312/Documents/SobreNomes.txt";
